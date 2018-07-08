@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "705550583177",
+    "firebase_url": "https://odinya-2d263.firebaseio.com",
+    "project_id": "odinya-2d263",
+    "storage_bucket": "odinya-2d263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705550583177:android:057e92167ca9714a",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothlegatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705550583177-738c12vd2iv7d043fbuh2o6r1kol1j79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOp5lEWCFB3kmTuvPUBPHtR6gkgVm9sto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
